@@ -1,6 +1,6 @@
 {
     "name": "alongal/timezone",
-    "description": ":description",
+    "description": "Timezone package using Laravel",
     "license": "MIT",
     "authors": [
         {
